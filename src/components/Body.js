@@ -26,7 +26,6 @@ function Body() {
   // if(resNewList.length === 0){
   //   return <Shimmer />
   // }
-  // git pull sucess
 
   return resNewList.length === 0 ? <Shimmer /> : (
     <>

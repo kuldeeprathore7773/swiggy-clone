@@ -16,6 +16,7 @@ function Header() {
               <li>Help</li>
               <li>Sign In</li>
               <li>Cart</li>
+              <button className="login-btn" >Login</button>
             </ul>
           </nav>
         </div>
